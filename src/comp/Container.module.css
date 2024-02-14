@@ -1,0 +1,8 @@
+.container{
+
+  border: 2px solid black;
+    margin: 6cm;
+    width: 50%;
+    color: blueviolet;
+    background: aliceblue;
+}
